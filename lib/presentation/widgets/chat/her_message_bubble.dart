@@ -45,7 +45,7 @@ class _ImageBubble extends StatelessWidget {
           height: 150,
           width: size.width * 0.7,
           padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-          child: const Text('Mi amor esta enviando un mensaje'),
+          child: const Text('Mi amor esta enviando un mensaje...'),
         );
       }, 'https://yesno.wtf/assets/no/30-d37eee83c3c2180de4edb7da6fa9f5b7.gif'),
     );
